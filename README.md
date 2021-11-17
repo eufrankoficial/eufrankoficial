@@ -16,12 +16,9 @@
 
 ## About me
 
-LinkedIn (https://www.linkedin.com/in/rafael-franke-41a0a6ba/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eufrankoficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
 
 ----------------------------------------------------------------------------------
 

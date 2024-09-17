@@ -10,7 +10,6 @@ Currently, I work at a dynamic startup, applying my knowledge of **Laravel**, **
 - **Laravel & PHP**: Over 10 years of experience in developing robust and efficient web applications.
 - **React**: Experience since 2021 in building interactive and modern user interfaces.
 - **MySQL & PostgreSQL**: Proficient in relational databases, including design, optimization, and maintenance.
-- **npm Package Development**: Creating and maintaining packages to enhance productivity and functionality in projects.
 
 ## 🌐 Contact
 
